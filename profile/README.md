@@ -36,11 +36,8 @@ Thrive is (...)
 
 
 ## Feature ✋
-- **Camera**<br>
-Detect a sign language movements by pointing the camera and get the translation results.
-- **Dictonary**<br>
-See sign language from different letters and words. You can also use the available search feature to find the word you want in sign language.
-
+- **Audio**<br>
+Detect your depression by speech and get the suggestion results
 <br>
 
 ## Getting Started 🚀
@@ -48,7 +45,7 @@ See sign language from different letters and words. You can also use the availab
 
   1.  Android
   2.  Internet connection
-  3.  Camera Accesibility
+  3.  audio Accesibility
 
 - **Installation**
 
