@@ -1,8 +1,9 @@
 <h1 align="center"> Thrive - AI Depression Speech Analytics</h1>
 <br>
-<!-- <p align="center">
-  <img src="https://github.com/C23-PC647-SABI/.github/blob/main/profile/logo.png?raw=true">
-</p> -->
+<p align="center">
+  logo
+<!--   <img src="https://github.com/C23-PC647-SABI/.github/blob/main/profile/logo.png?raw=true"> -->
+</p>
 <br>
 <h3 align="center">Bangkit 2024 Product Based Capstone Project</h3>
 <h4 align="center">Created by : C241-PS254 Team</h4>
@@ -51,7 +52,7 @@ See sign language from different letters and words. You can also use the availab
 
 - **Installation**
 
-  1.  <a href="http://bit.ly/sabi-v1-0-0-download">Download the APK</a>
+  1.  <!--<a href="http://bit.ly/sabi-v1-0-0-download">Download the APK</a> --> download
   2.  Install the APK
 
 <br>
