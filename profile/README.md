@@ -4,7 +4,7 @@
   <img src="https://github.com/C23-PC647-SABI/.github/blob/main/profile/logo.png?raw=true">
 </p> -->
 <br>
-<h3 align="center">Bangkit 2023 Product Based Capstone Project</h3>
+<h3 align="center">Bangkit 2024 Product Based Capstone Project</h3>
 <h4 align="center">Created by : C241-PS254 Team</h4>
 <br>
 
@@ -57,7 +57,7 @@ See sign language from different letters and words. You can also use the availab
 <br>
 
 ## Design 🎨
-<a href="https://www.figma.com/file/og6YrEiuUxkzTqKmq8ElQf/SABI?type=design&node-id=0%3A1&t=PEnx3zpeaP7X9qac-1">Link design figma</a>
+<!-- <a href="https://www.figma.com/file/og6YrEiuUxkzTqKmq8ElQf/SABI?type=design&node-id=0%3A1&t=PEnx3zpeaP7X9qac-1">Link design figma</a> -->
 
 <br>
 
