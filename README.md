@@ -1,63 +1,50 @@
 <h1 align="center"> Thrive - AI Depression Speech Analytics</h1>
 <br>
-<!-- <p align="center">
-  <img src="https://github.com/C23-PC647-SABI/.github/blob/main/profile/logo.png?raw=true">
-</p> -->
-<br>
-<h3 align="center">Bangkit 2023 Product Based Capstone Project</h3>
+
+<h3 align="center">Bangkit 2024 Product Based Capstone Project</h3>
 <h4 align="center">Created by : C241-PS254 Team</h4>
 <br>
 
-## Introduction 👋
-Hello everyone, we are from **C241-PS254**. We consist of 7 people and here is a list of our team members:
+## About Thrive 👋
 
-| Name | Bangkit ID | Learning Path | University |
-| :---: | :---: | :---: | :---: |
-| Azzila Deswita Utami  | M117D4KX2756  | Machine Learning | Institut Teknologi Nasional Bandung |
-| Wahyudi  | M117D4KY2729   | Machine Learning | Institut Teknologi Nasional Bandung |
-| Ni Putu Dian Astutik | M014D4KX2979   | Machine Learning | Universitas Udayana |
-| Muhammad Ridzki Nugraha | C193D4KY1133   | Cloud Computing | Universitas Bina Sarana Informatika |
-| Hari Handika Saputra | C193D4KY1176   | Cloud Computing | Universitas Bina Sarana Informatika |
-| Farhan Zainadin Zidan Ginting | A207D4KY4307  | Mobile Development | Universitas Harapan Medan |
-| Muhammad Abdillah | A207D4KY4284  | Mobile Development | Universitas Harapan Medan |
-<br>
+Thrive is an Android application that utilizes the power of artificial intelligence to analyze speech patterns and detect potential signs of depression.  By recording a short audio sample, Thrive can help individuals gain a better understanding of their mental well-being and encourage them to seek professional support when needed. 
 
-## Theme
-Empowering Minds: A holistic approach to education and personal development
+## Key Features ✋
 
-<br>
-
-
-## What is Thrive? 👋
-Thrive is (...)
-
-<br>
-
-
-## Feature ✋
-- **Camera**<br>
-Detect a sign language movements by pointing the camera and get the translation results.
-- **Dictonary**<br>
-See sign language from different letters and words. You can also use the available search feature to find the word you want in sign language.
-
-<br>
+* **Audio Analysis:** Record a short audio sample through the app.
+* **AI-Powered Detection:** Thrive utilizes advanced machine learning algorithms to analyze vocal patterns and speech content for indicators of depression.
+* **Personalized Insights:** Receive easy-to-understand feedback based on the analysis. 
+* **(Future update) Resource Recommendations:**  Access helpful resources and information related to mental health and well-being.  
+* **(Future update) Support Network:** Connect with friends, family, or mental health professionals.
 
 ## Getting Started 🚀
-- **Prerequisites**
 
-  1.  Android
-  2.  Internet connection
-  3.  Camera Accesibility
+**Download Thrive:**
 
-- **Installation**
+[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen)]((https://drive.google.com/file/d/1wDlzP90rCpcXlHr00XAcIvKdj-CvGmmB/view?usp=sharing))
 
-  1.  <a href="http://bit.ly/sabi-v1-0-0-download">Download the APK</a>
-  2.  Install the APK
+**System Requirements:**
 
-<br>
+* Android device
+* Internet connection
+* Microphone access
 
-## Design 🎨
-<a href="https://www.figma.com/file/og6YrEiuUxkzTqKmq8ElQf/SABI?type=design&node-id=0%3A1&t=PEnx3zpeaP7X9qac-1">Link design figma</a>
+## The Team 👥
 
-<br>
+We are a team of 7 passionate individuals from the Bangkit 2023 program:
 
+| Name                      | Bangkit ID        | Learning Path     | University                                 |
+|---------------------------|-------------------|-------------------|---------------------------------------------|
+| Azzila Deswita Utami       | M117D4KX2756     | Machine Learning  | Institut Teknologi Nasional Bandung        |
+| Wahyudi                   | M117D4KY2729     | Machine Learning  | Institut Teknologi Nasional Bandung        |
+| Ni Putu Dian Astutik      | M014D4KX2979     | Machine Learning  | Universitas Udayana                        |
+| Muhammad Ridzki Nugraha    | C193D4KY1133     | Cloud Computing   | Universitas Bina Sarana Informatika        |
+| Hari Handika Saputra      | C193D4KY1176     | Cloud Computing   | Universitas Bina Sarana Informatika        |
+| Farhan Zainadin Zidan Ginting | A207D4KY4307     | Mobile Development | Universitas Harapan Medan                    |
+| Muhammad Abdillah          | A207D4KY4284     | Mobile Development | Universitas Harapan Medan                    |
+
+## Connect With Us 🤝
+
+* **GitHub Repository:** [https://github.com/Thrive-Depression-Speech-Analytics](https://github.com/Thrive-Depression-Speech-Analytics) 
+
+**Please Note:** Thrive is intended for informational purposes only and should not be used as a substitute for professional medical advice, diagnosis, or treatment. If you or someone you know is struggling with their mental health, please reach out to a qualified healthcare professional or mental health organization. 
