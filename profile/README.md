@@ -33,15 +33,15 @@ Thrive is an Android application that utilizes the power of artificial intellige
 
 We are a team of 7 passionate individuals from the Bangkit 2023 program:
 
-| Name                      | Bangkit ID        | Learning Path     | University                                 |
-|---------------------------|-------------------|-------------------|---------------------------------------------|
-| Azzila Deswita Utami       | M117D4KX2756     | Machine Learning  | Institut Teknologi Nasional Bandung        |
-| Wahyudi                   | M117D4KY2729     | Machine Learning  | Institut Teknologi Nasional Bandung        |
-| Ni Putu Dian Astutik      | M014D4KX2979     | Machine Learning  | Universitas Udayana                        |
-| Muhammad Ridzki Nugraha    | C193D4KY1133     | Cloud Computing   | Universitas Bina Sarana Informatika        |
-| Hari Handika Saputra      | C193D4KY1176     | Cloud Computing   | Universitas Bina Sarana Informatika        |
-| Farhan Zainadin Zidan Ginting | A207D4KY4307     | Mobile Development | Universitas Harapan Medan                    |
-| Muhammad Abdillah          | A207D4KY4284     | Mobile Development | Universitas Harapan Medan                    |
+| Name                      | Bangkit ID        | Learning Path     | University                                 | Linkedin 
+|---------------------------|-------------------|-------------------|---------------------------------------------| :---: |
+| Azzila Deswita Utami       | M117D4KX2756     | Machine Learning  | Institut Teknologi Nasional Bandung        | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/azziladeswitautami/) |
+| Wahyudi                   | M117D4KY2729     | Machine Learning  | Institut Teknologi Nasional Bandung        | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/wahyudi-y4103/) |
+| Ni Putu Dian Astutik      | M014D4KX2979     | Machine Learning  | Universitas Udayana                        | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/niputudianastutik/) |
+| Muhammad Ridzki Nugraha    | C193D4KY1133     | Cloud Computing   | Universitas Bina Sarana Informatika        | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/muhammad-ridzki-nugraha/) |
+| Hari Handika Saputra      | C193D4KY1176     | Cloud Computing   | Universitas Bina Sarana Informatika        | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/hhsaputra/) |
+| Farhan Zainadin Zidan Ginting | A207D4KY4307     | Mobile Development | Universitas Harapan Medan                    | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/farhan-zainadin/) |
+| Muhammad Abdillah          | A207D4KY4284     | Mobile Development | Universitas Harapan Medan                    | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=social)](REPLACE_WITH_LINKEDIN_PROFILE_URL) |
 
 ## Connect With Us 🤝
 
