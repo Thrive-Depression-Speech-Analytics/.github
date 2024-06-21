@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  <img src="./WhatsApp Image 2024-06-21 at 17.52.46_8dc07ca1 (2).jpg" alt="Thrive Logo" width="200"> <br> Thrive - AI Depression Speech Analytics 
+  <img src="./WhatsApp Image 2024-06-21 at 17.52.46_8dc07ca1 (2).jpg" alt="Thrive Logo"> <br> Thrive - AI Depression Speech Analytics 
 </h1>
 <br>
 
